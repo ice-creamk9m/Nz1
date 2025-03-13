@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "𓃠",
+	"nickNameBot": "🌊ʸᵒᵘʳ Icₑ cᵣₑₐₘ🍨",
 	"prefix": "#",
 	"adminOnly": {
 		"enable": false,
@@ -23,7 +23,7 @@
 	],
 	"whiteListMode": {
 		"enable": true,
-		"whiteListIds": [100091756643026"],
+		"whiteListIds": ["100091756643026"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
